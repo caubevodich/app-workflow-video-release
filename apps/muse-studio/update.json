@@ -1,11 +1,11 @@
 {
   "appId": "muse-studio",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "platform": "win32",
   "arch": "x64",
   "asset": "Muse Studio.exe",
-  "size": 121886476,
-  "sha256": "4175eb0c6e09bf0c2dd9423b4d0b004166bb07a8fd8b48b85c45b5a35776b628",
+  "size": 121873980,
+  "sha256": "4e8de2d20c0fa0f140227e115fb4f904525bae98699ce6a8ec4638fb697620b4",
   "dataSchema": 1,
   "notes": ""
 }
