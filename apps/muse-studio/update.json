@@ -1,11 +1,11 @@
 {
   "appId": "sularflow",
-  "version": "0.2.22",
+  "version": "0.2.23",
   "platform": "win32",
   "arch": "x64",
   "asset": "SularFlow.exe",
-  "size": 124018813,
-  "sha256": "53f6d9d53b1ce3fc6a14547dac52b7953c08e825f57b2eab3000578cd68c16e8",
+  "size": 124088088,
+  "sha256": "cf1a4cfce130a4ef3444db52585d908f61475cda96c1f90ae20e72801e2d7bf1",
   "dataSchema": 1,
   "notes": ""
 }
